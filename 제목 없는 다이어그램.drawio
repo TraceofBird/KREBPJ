@@ -1,147 +1,138 @@
-<mxfile host="app.diagrams.net" modified="2023-05-06T10:09:16.146Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Whale/3.20.182.14 Safari/537.36" etag="DYjw-Gtsqz9n3dJOscKa" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-06T10:25:09.831Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Whale/3.20.182.14 Safari/537.36" etag="EnHU5OHXp95Wh1rn3Iil" version="21.2.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1738" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1728" dy="2098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="집 고르기" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Gowun Dodum;fontSize=14;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="60" y="230" width="100" height="80" as="geometry" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="등기부등본&lt;br&gt;점검" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Gowun Dodum;fontSize=14;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-80" y="625" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="17zZlKTiA2-mZlrKa-Hx-0" value="List" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="199.88" y="340" width="140" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="17zZlKTiA2-mZlrKa-Hx-1" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1D3557;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontStyle=1" vertex="1" parent="17zZlKTiA2-mZlrKa-Hx-0">
-          <mxGeometry y="30" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="17zZlKTiA2-mZlrKa-Hx-2" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1D3557;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontStyle=1" vertex="1" parent="17zZlKTiA2-mZlrKa-Hx-0">
-          <mxGeometry y="60" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="17zZlKTiA2-mZlrKa-Hx-3" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1D3557;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontStyle=1" vertex="1" parent="17zZlKTiA2-mZlrKa-Hx-0">
-          <mxGeometry y="90" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="17zZlKTiA2-mZlrKa-Hx-5" value="전세사기방지&lt;br style=&quot;font-size: 14px;&quot;&gt;체크리스트" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-90" y="230" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="17zZlKTiA2-mZlrKa-Hx-7" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#457B9D;fontColor=default;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontStyle=1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="17zZlKTiA2-mZlrKa-Hx-5" target="WIyWlLk6GJQsqaUBKTNV-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="510" y="90" as="sourcePoint" />
-            <mxPoint x="110" y="230" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="17zZlKTiA2-mZlrKa-Hx-5" value="전세사기&lt;br&gt;점검" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-90" y="250" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-25" value="임대인 확인" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Gowun Dodum;fontSize=14;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220.25" y="230" width="100" height="80" as="geometry" />
+          <mxGeometry x="40" y="-50" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="17zZlKTiA2-mZlrKa-Hx-27" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#457B9D;fontColor=default;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontStyle=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="17zZlKTiA2-mZlrKa-Hx-28" source="17zZlKTiA2-mZlrKa-Hx-25">
+        <mxCell id="17zZlKTiA2-mZlrKa-Hx-27" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;strokeColor=#457B9D;fontColor=default;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontStyle=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="270" as="sourcePoint" />
+            <mxPoint x="109.75" y="-100" as="sourcePoint" />
+            <mxPoint x="199.75" y="-100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="129.75" y="-100" />
+              <mxPoint x="129.75" y="-100" />
+            </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="17zZlKTiA2-mZlrKa-Hx-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="17zZlKTiA2-mZlrKa-Hx-28" target="17zZlKTiA2-mZlrKa-Hx-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-28" value="계약 직후" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Gowun Dodum;fontSize=14;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380.25" y="230" width="100" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="17zZlKTiA2-mZlrKa-Hx-30" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#457B9D;fontColor=default;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontStyle=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="17zZlKTiA2-mZlrKa-Hx-31" source="17zZlKTiA2-mZlrKa-Hx-28">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="170" as="sourcePoint" />
-          </mxGeometry>
+          <mxGeometry x="200" y="-50" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-31" value="입주 이후" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Gowun Dodum;fontSize=14;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540.25" y="230" width="100" height="80" as="geometry" />
+          <mxGeometry x="360" y="-50" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="17zZlKTiA2-mZlrKa-Hx-32" value="yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#457B9D;fontColor=default;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontStyle=1;align=left;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="17zZlKTiA2-mZlrKa-Hx-31" target="17zZlKTiA2-mZlrKa-Hx-56">
-          <mxGeometry x="-0.6736" y="20" relative="1" as="geometry">
-            <mxPoint x="640" y="360" as="sourcePoint" />
-            <mxPoint x="690" y="150" as="targetPoint" />
-            <Array as="points" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="17zZlKTiA2-mZlrKa-Hx-35" value="List" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="340" width="140" height="120" as="geometry">
+        <mxCell id="17zZlKTiA2-mZlrKa-Hx-35" value="이상유무 점검" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-100" y="750" width="140" height="210" as="geometry">
             <mxRectangle x="40" y="340" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="17zZlKTiA2-mZlrKa-Hx-36" value="주소" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1D3557;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontStyle=1" vertex="1" parent="17zZlKTiA2-mZlrKa-Hx-35">
+        <mxCell id="17zZlKTiA2-mZlrKa-Hx-36" value="주소" style="text;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontStyle=1;strokeColor=default;" vertex="1" parent="17zZlKTiA2-mZlrKa-Hx-35">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="17zZlKTiA2-mZlrKa-Hx-37" value="건축물 용도" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1D3557;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontStyle=1" vertex="1" parent="17zZlKTiA2-mZlrKa-Hx-35">
+        <mxCell id="17zZlKTiA2-mZlrKa-Hx-37" value="건축물 용도" style="text;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1D3557;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontStyle=1" vertex="1" parent="17zZlKTiA2-mZlrKa-Hx-35">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="17zZlKTiA2-mZlrKa-Hx-38" value="소유주" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1D3557;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontStyle=1" vertex="1" parent="17zZlKTiA2-mZlrKa-Hx-35">
+        <mxCell id="17zZlKTiA2-mZlrKa-Hx-38" value="소유주" style="text;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1D3557;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontStyle=1" vertex="1" parent="17zZlKTiA2-mZlrKa-Hx-35">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="17zZlKTiA2-mZlrKa-Hx-39" value="List" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360.13" y="340" width="140" height="120" as="geometry" />
+        <mxCell id="17zZlKTiA2-mZlrKa-Hx-60" value="압류 현황" style="text;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1D3557;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontStyle=1" vertex="1" parent="17zZlKTiA2-mZlrKa-Hx-35">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="17zZlKTiA2-mZlrKa-Hx-40" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1D3557;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontStyle=1" vertex="1" parent="17zZlKTiA2-mZlrKa-Hx-39">
-          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        <mxCell id="17zZlKTiA2-mZlrKa-Hx-61" value="근저당권 현황" style="text;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1D3557;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontStyle=1" vertex="1" parent="17zZlKTiA2-mZlrKa-Hx-35">
+          <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="17zZlKTiA2-mZlrKa-Hx-41" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1D3557;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontStyle=1" vertex="1" parent="17zZlKTiA2-mZlrKa-Hx-39">
-          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        <mxCell id="17zZlKTiA2-mZlrKa-Hx-62" value="채권 최고액" style="text;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1D3557;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontStyle=1" vertex="1" parent="17zZlKTiA2-mZlrKa-Hx-35">
+          <mxGeometry y="180" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="17zZlKTiA2-mZlrKa-Hx-42" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1D3557;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontStyle=1" vertex="1" parent="17zZlKTiA2-mZlrKa-Hx-39">
-          <mxGeometry y="90" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="17zZlKTiA2-mZlrKa-Hx-43" value="List" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520.13" y="340" width="140" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="17zZlKTiA2-mZlrKa-Hx-44" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1D3557;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontStyle=1" vertex="1" parent="17zZlKTiA2-mZlrKa-Hx-43">
-          <mxGeometry y="30" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="17zZlKTiA2-mZlrKa-Hx-45" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1D3557;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontStyle=1" vertex="1" parent="17zZlKTiA2-mZlrKa-Hx-43">
-          <mxGeometry y="60" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="17zZlKTiA2-mZlrKa-Hx-46" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1D3557;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontStyle=1" vertex="1" parent="17zZlKTiA2-mZlrKa-Hx-43">
-          <mxGeometry y="90" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="17zZlKTiA2-mZlrKa-Hx-47" value="List" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="340" width="140" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="17zZlKTiA2-mZlrKa-Hx-48" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1D3557;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontStyle=1" vertex="1" parent="17zZlKTiA2-mZlrKa-Hx-47">
-          <mxGeometry y="30" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="17zZlKTiA2-mZlrKa-Hx-49" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1D3557;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontStyle=1" vertex="1" parent="17zZlKTiA2-mZlrKa-Hx-47">
-          <mxGeometry y="60" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="17zZlKTiA2-mZlrKa-Hx-50" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1D3557;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontStyle=1" vertex="1" parent="17zZlKTiA2-mZlrKa-Hx-47">
-          <mxGeometry y="90" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="17zZlKTiA2-mZlrKa-Hx-51" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.503;exitY=-0.029;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="17zZlKTiA2-mZlrKa-Hx-0" target="17zZlKTiA2-mZlrKa-Hx-25">
+        <mxCell id="17zZlKTiA2-mZlrKa-Hx-51" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.503;exitY=-0.029;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="17zZlKTiA2-mZlrKa-Hx-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="360" as="sourcePoint" />
-            <mxPoint x="520" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="17zZlKTiA2-mZlrKa-Hx-52" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="17zZlKTiA2-mZlrKa-Hx-39" target="17zZlKTiA2-mZlrKa-Hx-28">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="429.71000000000004" y="407" as="sourcePoint" />
-            <mxPoint x="429.71000000000004" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="17zZlKTiA2-mZlrKa-Hx-53" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="17zZlKTiA2-mZlrKa-Hx-43" target="17zZlKTiA2-mZlrKa-Hx-31">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="400" as="sourcePoint" />
-            <mxPoint x="490" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="17zZlKTiA2-mZlrKa-Hx-54" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="17zZlKTiA2-mZlrKa-Hx-47" target="17zZlKTiA2-mZlrKa-Hx-56">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="750" y="410" as="sourcePoint" />
-            <mxPoint x="750" y="170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="17zZlKTiA2-mZlrKa-Hx-55" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="17zZlKTiA2-mZlrKa-Hx-35" target="WIyWlLk6GJQsqaUBKTNV-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="347" as="sourcePoint" />
-            <mxPoint x="280" y="320" as="targetPoint" />
+            <mxPoint x="90.42000000000007" y="186.51999999999998" as="sourcePoint" />
+            <mxPoint x="339.75" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-56" value="계약 종료 이후" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Gowun Dodum;fontSize=14;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="700" y="230" width="100" height="80" as="geometry" />
+          <mxGeometry x="519.75" y="-50" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="17zZlKTiA2-mZlrKa-Hx-57" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#457B9D;fontColor=default;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontStyle=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="17zZlKTiA2-mZlrKa-Hx-25">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="280" as="sourcePoint" />
-            <mxPoint x="390" y="280" as="targetPoint" />
+        <mxCell id="17zZlKTiA2-mZlrKa-Hx-69" value="&lt;b&gt;집 선택&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#457B9D;strokeWidth=1;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-90" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="17zZlKTiA2-mZlrKa-Hx-70" value="&lt;b&gt;임대인 확인&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#457B9D;strokeWidth=1;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="17zZlKTiA2-mZlrKa-Hx-71" value="&lt;b&gt;계약 직후&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#457B9D;strokeWidth=1;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-560" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="17zZlKTiA2-mZlrKa-Hx-72" value="&lt;b&gt;입주 직후&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#457B9D;strokeWidth=1;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-560" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="17zZlKTiA2-mZlrKa-Hx-73" value="&lt;b&gt;계약 종료 이&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#457B9D;strokeWidth=1;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-560" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="17zZlKTiA2-mZlrKa-Hx-77" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#457B9D;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="17zZlKTiA2-mZlrKa-Hx-35" target="WIyWlLk6GJQsqaUBKTNV-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-150" y="610" as="sourcePoint" />
+            <mxPoint x="-100" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17zZlKTiA2-mZlrKa-Hx-79" value="NO" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;strokeColor=#457B9D;fontColor=default;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontStyle=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="17zZlKTiA2-mZlrKa-Hx-76" target="17zZlKTiA2-mZlrKa-Hx-69">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint x="80" y="450" as="sourcePoint" />
+            <mxPoint x="170" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-130" y="480" />
+              <mxPoint x="-130" y="390" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17zZlKTiA2-mZlrKa-Hx-80" value="전세가율 80% 이하" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Gowun Dodum;fontColor=#1D3557;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-110" y="555" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="17zZlKTiA2-mZlrKa-Hx-81" value="YES" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;strokeColor=#457B9D;fontColor=default;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontStyle=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="17zZlKTiA2-mZlrKa-Hx-69" target="WIyWlLk6GJQsqaUBKTNV-6">
+          <mxGeometry x="0.4634" y="20" relative="1" as="geometry">
+            <mxPoint x="70" y="620" as="sourcePoint" />
+            <mxPoint x="80" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-30" y="590" />
+              <mxPoint x="-30" y="590" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17zZlKTiA2-mZlrKa-Hx-76" value="깡통전세&lt;br&gt;체크" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Gowun Dodum;fontSize=14;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-80" y="440" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="17zZlKTiA2-mZlrKa-Hx-82" value="NO" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;strokeColor=#457B9D;fontColor=default;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontStyle=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="17zZlKTiA2-mZlrKa-Hx-76">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint x="20" y="650" as="sourcePoint" />
+            <mxPoint x="80" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-130" y="665" />
+              <mxPoint x="-130" y="480" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17zZlKTiA2-mZlrKa-Hx-84" value="YES" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;strokeColor=#457B9D;fontColor=default;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontStyle=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="17zZlKTiA2-mZlrKa-Hx-38" target="17zZlKTiA2-mZlrKa-Hx-70">
+          <mxGeometry x="0.8857" y="20" relative="1" as="geometry">
+            <mxPoint x="320" y="670" as="sourcePoint" />
+            <mxPoint x="160" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="70" y="855" />
+              <mxPoint x="70" y="390" />
+            </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
