@@ -1,23 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2023-05-06T11:25:57.748Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Whale/3.20.182.14 Safari/537.36" etag="toi8LTIgnlQDnkyiB6H_" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-06T11:26:27.839Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Whale/3.20.182.14 Safari/537.36" etag="Z3N5vLLuoDuesZ7nnqvC" version="21.2.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3582" dy="937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="등기부등본&lt;br&gt;점검" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Gowun Dodum;fontSize=14;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1320" y="254" width="100" height="80" as="geometry" />
+          <mxGeometry x="-1580" y="264" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-200" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#457B9D;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;fontStyle=1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="17zZlKTiA2-mZlrKa-Hx-35" target="17zZlKTiA2-mZlrKa-Hx-164">
           <mxGeometry x="0.8399" y="10" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1190" y="505" />
-              <mxPoint x="-1190" y="90" />
+              <mxPoint x="-1450" y="515" />
+              <mxPoint x="-1450" y="100" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-35" value="이상유무" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1340" y="360" width="140" height="240" as="geometry">
+          <mxGeometry x="-1600" y="370" width="140" height="240" as="geometry">
             <mxRectangle x="40" y="340" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -44,35 +44,35 @@
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-77" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#457B9D;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="17zZlKTiA2-mZlrKa-Hx-35" target="WIyWlLk6GJQsqaUBKTNV-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1390" y="340" as="sourcePoint" />
-            <mxPoint x="-1340" y="290" as="targetPoint" />
+            <mxPoint x="-1650" y="350" as="sourcePoint" />
+            <mxPoint x="-1600" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-80" value="전세가율 80% 이하" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Gowun Dodum;fontColor=#1D3557;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1360" y="245" width="70" height="30" as="geometry" />
+          <mxGeometry x="-1620" y="255" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#457B9D;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="17zZlKTiA2-mZlrKa-Hx-92" target="17zZlKTiA2-mZlrKa-Hx-165">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1030" y="504" />
-              <mxPoint x="-1030" y="90" />
+              <mxPoint x="-1290" y="514" />
+              <mxPoint x="-1290" y="100" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-92" value="&lt;b&gt;확정일자부여 동의&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#457B9D;strokeWidth=1;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1173" y="464" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1433" y="474" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-101" value="국세&lt;br&gt;완납증명서" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Gowun Dodum;fontColor=#1D3557;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1185" y="318" width="70" height="30" as="geometry" />
+          <mxGeometry x="-1445" y="328" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-102" value="사회보험&lt;br&gt;완납증명서" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Gowun Dodum;fontColor=#1D3557;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1185" y="424" width="70" height="30" as="geometry" />
+          <mxGeometry x="-1445" y="434" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#457B9D;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="17zZlKTiA2-mZlrKa-Hx-76" target="17zZlKTiA2-mZlrKa-Hx-168">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1370" y="190" />
-              <mxPoint x="-1370" y="90" />
+              <mxPoint x="-1630" y="200" />
+              <mxPoint x="-1630" y="100" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -80,19 +80,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-76" value="깡통전세&lt;br&gt;체크" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Gowun Dodum;fontSize=14;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1320" y="150" width="100" height="80" as="geometry" />
+          <mxGeometry x="-1580" y="160" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#457B9D;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="17zZlKTiA2-mZlrKa-Hx-126" target="17zZlKTiA2-mZlrKa-Hx-167">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-690" y="379" as="sourcePoint" />
+            <mxPoint x="-950" y="389" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-680" y="403" />
-              <mxPoint x="-680" y="90" />
+              <mxPoint x="-940" y="413" />
+              <mxPoint x="-940" y="100" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-125" value="최후 점검" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-840" y="358" width="140" height="90" as="geometry">
+          <mxGeometry x="-1100" y="368" width="140" height="90" as="geometry">
             <mxRectangle x="40" y="340" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -104,24 +104,24 @@
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-600" y="220" as="sourcePoint" />
-            <mxPoint x="-600" y="275" as="targetPoint" />
+            <mxPoint x="-860" y="230" as="sourcePoint" />
+            <mxPoint x="-860" y="285" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-196" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="17zZlKTiA2-mZlrKa-Hx-149" target="17zZlKTiA2-mZlrKa-Hx-150">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-149" value="&lt;b&gt;전입신고&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#457B9D;strokeWidth=1;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-660" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="-920" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-193" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="17zZlKTiA2-mZlrKa-Hx-150" target="17zZlKTiA2-mZlrKa-Hx-157">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-150" value="&lt;b&gt;전세보증보험 가입&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#457B9D;strokeWidth=1;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-660" y="254" width="120" height="60" as="geometry" />
+          <mxGeometry x="-920" y="264" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-154" value="변동사항 모니터링" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-670" y="464" width="140" height="120" as="geometry">
+          <mxGeometry x="-930" y="474" width="140" height="120" as="geometry">
             <mxRectangle x="40" y="340" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -138,31 +138,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-157" value="&lt;b&gt;알림서비스 신청&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#457B9D;strokeWidth=1;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-660" y="358" width="120" height="60" as="geometry" />
+          <mxGeometry x="-920" y="368" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="17zZlKTiA2-mZlrKa-Hx-164" target="17zZlKTiA2-mZlrKa-Hx-176">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-164" value="&lt;b&gt;임대인 확인&lt;/b&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;labelBackgroundColor=none;strokeColor=#457B9D;strokeWidth=1;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1173" y="50" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1433" y="60" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="17zZlKTiA2-mZlrKa-Hx-165" target="17zZlKTiA2-mZlrKa-Hx-177">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-165" value="&lt;b&gt;계약서 작성&lt;/b&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;labelBackgroundColor=none;strokeColor=#457B9D;strokeWidth=1;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1000" y="50" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1260" y="60" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="17zZlKTiA2-mZlrKa-Hx-166" target="17zZlKTiA2-mZlrKa-Hx-171">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-166" value="&lt;b&gt;계약 직후&lt;/b&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;labelBackgroundColor=none;strokeColor=#457B9D;strokeWidth=1;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-830" y="50" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1090" y="60" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="17zZlKTiA2-mZlrKa-Hx-167" target="17zZlKTiA2-mZlrKa-Hx-149">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-167" value="&lt;b&gt;입주 이후&lt;/b&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;labelBackgroundColor=none;strokeColor=#457B9D;strokeWidth=1;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-660" y="50" width="120" height="80" as="geometry" />
+          <mxGeometry x="-920" y="60" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-180" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="17zZlKTiA2-mZlrKa-Hx-168" target="17zZlKTiA2-mZlrKa-Hx-76">
           <mxGeometry y="20" relative="1" as="geometry">
@@ -170,73 +170,73 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-168" value="&lt;b&gt;집선택&lt;/b&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;labelBackgroundColor=none;strokeColor=#457B9D;strokeWidth=1;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1330" y="50" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1590" y="60" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="17zZlKTiA2-mZlrKa-Hx-169" target="17zZlKTiA2-mZlrKa-Hx-172">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-169" value="&lt;b&gt;이중계약&lt;br&gt;여부 확인&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#457B9D;strokeWidth=1;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1000" y="254" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1260" y="264" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="17zZlKTiA2-mZlrKa-Hx-170" target="17zZlKTiA2-mZlrKa-Hx-125">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-170" value="&lt;b&gt;잔금 입금전&lt;br&gt;확인&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#457B9D;strokeWidth=1;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-830" y="254" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1090" y="264" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="17zZlKTiA2-mZlrKa-Hx-171" target="17zZlKTiA2-mZlrKa-Hx-170">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-171" value="&lt;b&gt;전입신고&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#457B9D;strokeWidth=1;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-830" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1090" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="17zZlKTiA2-mZlrKa-Hx-172" target="17zZlKTiA2-mZlrKa-Hx-173">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-172" value="&lt;b&gt;확정일자&lt;br&gt;부여&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#457B9D;strokeWidth=1;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1000" y="358" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1260" y="368" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#457B9D;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="17zZlKTiA2-mZlrKa-Hx-173" target="17zZlKTiA2-mZlrKa-Hx-166">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-860" y="504" />
-              <mxPoint x="-860" y="90" />
+              <mxPoint x="-1120" y="514" />
+              <mxPoint x="-1120" y="100" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-173" value="&lt;b&gt;특약사항&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#457B9D;strokeWidth=1;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1000" y="464" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1260" y="474" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="17zZlKTiA2-mZlrKa-Hx-174" target="17zZlKTiA2-mZlrKa-Hx-175">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-174" value="&lt;b&gt;미납국세 확인&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#457B9D;strokeWidth=1;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1173" y="254" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1433" y="264" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="17zZlKTiA2-mZlrKa-Hx-175" target="17zZlKTiA2-mZlrKa-Hx-92">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-175" value="&lt;b&gt;임금채권&lt;br&gt;가능성 확인&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#457B9D;strokeWidth=1;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1173" y="358" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1433" y="368" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="17zZlKTiA2-mZlrKa-Hx-176" target="17zZlKTiA2-mZlrKa-Hx-174">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-176" value="&lt;b&gt;임대인&lt;br&gt;신분확인&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#457B9D;strokeWidth=1;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1173" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1433" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="17zZlKTiA2-mZlrKa-Hx-177" target="17zZlKTiA2-mZlrKa-Hx-169">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-177" value="&lt;b&gt;공인중개사&lt;br&gt;신분확인&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#457B9D;strokeWidth=1;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1000" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1260" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-201" value="&lt;b&gt;NO&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="17zZlKTiA2-mZlrKa-Hx-168">
           <mxGeometry x="0.0014" relative="1" as="geometry">
-            <mxPoint x="-1370" y="160" as="targetPoint" />
+            <mxPoint x="-1630" y="170" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1370" y="294" />
-              <mxPoint x="-1370" y="90" />
+              <mxPoint x="-1630" y="304" />
+              <mxPoint x="-1630" y="100" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
