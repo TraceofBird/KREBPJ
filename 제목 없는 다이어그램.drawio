@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-06T11:25:41.243Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Whale/3.20.182.14 Safari/537.36" etag="hBK69B7XViFrpYLgkz9Q" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-06T11:25:57.748Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Whale/3.20.182.14 Safari/537.36" etag="toi8LTIgnlQDnkyiB6H_" version="21.2.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3582" dy="937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,15 +68,6 @@
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-102" value="사회보험&lt;br&gt;완납증명서" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Gowun Dodum;fontColor=#1D3557;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1185" y="424" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="17zZlKTiA2-mZlrKa-Hx-181" value="&lt;b&gt;YES&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="17zZlKTiA2-mZlrKa-Hx-76" target="WIyWlLk6GJQsqaUBKTNV-6">
-          <mxGeometry x="-0.1972" y="20" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-1270" y="260" />
-              <mxPoint x="-1270" y="260" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#457B9D;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="17zZlKTiA2-mZlrKa-Hx-76" target="17zZlKTiA2-mZlrKa-Hx-168">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -84,6 +75,9 @@
               <mxPoint x="-1370" y="90" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="17zZlKTiA2-mZlrKa-Hx-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontSize=14;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="17zZlKTiA2-mZlrKa-Hx-76" target="WIyWlLk6GJQsqaUBKTNV-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="17zZlKTiA2-mZlrKa-Hx-76" value="깡통전세&lt;br&gt;체크" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Gowun Dodum;fontSize=14;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1320" y="150" width="100" height="80" as="geometry" />
